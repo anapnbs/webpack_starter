@@ -216,19 +216,7 @@ eval("// removed by extract-text-webpack-plugin\n\n//# sourceURL=webpack:///./sr
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\n\n__webpack_require__(/*! jquery */ \"./node_modules/jquery/dist/jquery.js\");\n\n__webpack_require__(/*! popper.js */ \"./node_modules/popper.js/dist/esm/popper.js\");\n\n__webpack_require__(/*! bootstrap */ \"./node_modules/bootstrap/dist/js/bootstrap.js\");\n\n__webpack_require__(/*! bootstrap/scss/bootstrap.scss */ \"./node_modules/bootstrap/scss/bootstrap.scss\");\n\n__webpack_require__(/*! ../css/app.css */ \"./src/assets/css/app.css\");\n\n__webpack_require__(/*! ../css/fontawesome-all.css */ \"./src/assets/css/fontawesome-all.css\");\n\n__webpack_require__(/*! animate.css */ \"./node_modules/animate.css/animate.css\");\n\n__webpack_require__(/*! lightbox2/dist/css/lightbox.min.css */ \"./node_modules/lightbox2/dist/css/lightbox.min.css\");\n\n__webpack_require__(/*! lightbox2/dist/js/lightbox-plus-jquery.js */ \"./node_modules/lightbox2/dist/js/lightbox-plus-jquery.js\");\n\nvar _wow = __webpack_require__(/*! wow.js */ \"./node_modules/wow.js/dist/wow.js\");\n\nvar _wow2 = _interopRequireDefault(_wow);\n\nvar _script = __webpack_require__(/*! ./modules/script.js */ \"./src/assets/js/modules/script.js\");\n\nvar _wowAnimate = __webpack_require__(/*! ./modules/wowAnimate.js */ \"./src/assets/js/modules/wowAnimate.js\");\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n// import '../scss/style.scss';\nconsole.log((0, _script.add)(10, 5));\nconsole.log((0, _script.subtract)(10, 5));\nconsole.log((0, _script.multiply)(10, 5));\nconsole.log((0, _script.divide)(10, 5));\n\n//# sourceURL=webpack:///./src/assets/js/app.js?");
-
-/***/ }),
-
-/***/ "./src/assets/js/modules/script.js":
-/*!*****************************************!*\
-  !*** ./src/assets/js/modules/script.js ***!
-  \*****************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nvar add = function add(a, b) {\n  return a + b;\n};\nvar subtract = function subtract(a, b) {\n  return a - b;\n};\nvar multiply = function multiply(a, b) {\n  return a * b;\n};\nvar divide = function divide(a, b) {\n  return a / b;\n};\n\nexports.add = add;\nexports.subtract = subtract;\nexports.multiply = multiply;\nexports.divide = divide;\n\n//# sourceURL=webpack:///./src/assets/js/modules/script.js?");
+eval("\n\n__webpack_require__(/*! jquery */ \"./node_modules/jquery/dist/jquery.js\");\n\n__webpack_require__(/*! popper.js */ \"./node_modules/popper.js/dist/esm/popper.js\");\n\n__webpack_require__(/*! bootstrap */ \"./node_modules/bootstrap/dist/js/bootstrap.js\");\n\n__webpack_require__(/*! bootstrap/scss/bootstrap.scss */ \"./node_modules/bootstrap/scss/bootstrap.scss\");\n\n__webpack_require__(/*! ../css/app.css */ \"./src/assets/css/app.css\");\n\n__webpack_require__(/*! ../css/fontawesome-all.css */ \"./src/assets/css/fontawesome-all.css\");\n\n__webpack_require__(/*! animate.css */ \"./node_modules/animate.css/animate.css\");\n\n__webpack_require__(/*! lightbox2/dist/css/lightbox.min.css */ \"./node_modules/lightbox2/dist/css/lightbox.min.css\");\n\n__webpack_require__(/*! lightbox2/dist/js/lightbox-plus-jquery.js */ \"./node_modules/lightbox2/dist/js/lightbox-plus-jquery.js\");\n\nvar _wowAnimate = __webpack_require__(/*! ./modules/wowAnimate.js */ \"./src/assets/js/modules/wowAnimate.js\");\n\n//# sourceURL=webpack:///./src/assets/js/app.js?");
 
 /***/ }),
 
